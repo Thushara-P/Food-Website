@@ -1,0 +1,228 @@
+h1{
+  font-size: 4rem;
+  font-family: 'Abril Fatface', cursive;
+  display: inline;
+  position: absolute;
+  left: 400px;
+  top: 100px;
+  line-height: 6rem;
+  letter-spacing: 3px;
+  margin-left: 0px;
+}
+
+.sidetext{
+  display: block;
+  width: 300px;
+  font-family: 'Hind Madurai', sans-serif;
+  font-size: 1.2rem;
+  position: absolute;
+  left:1300px;
+  top: 150px;
+  line-height: 2rem;
+  color: grey;
+
+}
+.Linehr{
+  display:inline;
+  position:absolute;
+  left:1300px;
+  top: 182px;
+  border: solid #f05151 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 110px auto;
+  border-width: thick;
+  border-style: solid none none none;
+}
+
+
+h3{
+font-family: 'Abril Fatface', cursive;
+font-size: 2rem;
+position: absolute;
+left: 70px;
+}
+
+.sidenav{
+  font-family: 'Hind Madurai', sans-serif;
+  color: grey;
+  line-height: 4rem;
+  font-size: 1.3rem;
+  display: inline;
+  position:absolute;
+  left: 70px;
+  top:170px;
+}
+.about{
+  text-decoration: line-through #f05151;
+}
+
+.button {
+  background-color: #f05151;
+  border: none;
+  color: white;
+  padding: 18px 60px;
+  text-align: center;
+  text-decoration: none;
+  display: inline;
+  position:absolute;
+  top: 730px;
+  left: 70px;
+  font-size: 18px;
+  margin: 4px 5px;
+  cursor: pointer;
+  border-radius: 25px;
+}
+
+#rcorners1 {
+  border-radius: 25px;
+  background: #fff;
+  padding: 20px;
+  width: 200px;
+  height: 250px;
+  display:inline;
+  position:absolute;
+  left: 400px;
+  top: 400px;
+  box-shadow: 10px 10px 35px #a7a7a7;
+}
+
+#rcorners2{
+  border-radius: 25px;
+  background: #fff;
+  padding: 20px;
+  width: 200px;
+  height: 250px;
+  display:inline;
+  position:absolute;
+  left: 700px;
+  top: 400px;
+  box-shadow: 10px 10px 35px #a7a7a7;
+}
+
+#rcorners3{
+  border-radius: 25px;
+  background: #fff;
+  padding: 20px;
+  width: 200px;
+  height: 250px;
+  display:inline;
+  position:absolute;
+  left: 1000px;
+  top: 400px;
+  box-shadow: 10px 10px 35px #a7a7a7;
+}
+#rcorners4{
+  border-radius: 25px;
+  background: #fff;
+  padding: 20px;
+  width: 200px;
+  height: 250px;
+  display:inline;
+  position:absolute;
+  left: 1300px;
+  top: 400px;
+  box-shadow: 10px 10px 35px #a7a7a7;
+}
+#rcorners5{
+  border-radius: 25px;
+  background: #fff;
+  padding: 20px;
+  width: 200px;
+  height: 250px;
+  display:inline;
+  position:absolute;
+  left: 1600px;
+  top: 400px;
+  box-shadow: 10px 10px 35px #a7a7a7;
+}
+.names{
+  font-family: 'Catamaran', sans-serif;
+  font-weight: bolder;
+  font-size: 1.3rem;
+  display: inline;
+  position:absolute;
+  top: 600px;
+  left: 460px;
+}
+.name1{
+  font-family: 'Catamaran', sans-serif;
+  font-weight: bolder;
+  font-size: 1.3rem;
+  display: inline;
+  position:absolute;
+  top: 600px;
+  left: 740px;
+}
+.name2{
+  font-family: 'Catamaran', sans-serif;
+  font-weight: bolder;
+  font-size: 1.3rem;
+  display: inline;
+  position:absolute;
+  top: 600px;
+  left: 1050px;
+}
+.name3{
+  font-family: 'Catamaran', sans-serif;
+  font-weight: bolder;
+  font-size: 1.3rem;
+  display: inline;
+  position:absolute;
+  top: 600px;
+  left: 1350px;
+}
+.name4{
+  font-family: 'Catamaran', sans-serif;
+  font-weight: bolder;
+  font-size: 1.3rem;
+  display: inline;
+  position:absolute;
+  top: 600px;
+  left: 1650px;
+}
+
+
+.tacos{
+  width: 200px;
+  height: 135px;
+  position: absolute;
+  left: 420px;
+  top: 450px;
+}
+
+.pizza{
+  width: 240px;
+  height: 170px;
+  position: absolute;
+  left: 700px;
+  top: 430px;
+}
+
+.chickenBurger{
+  width: 220px;
+  height: 150px;
+  position: absolute;
+  left: 1010px;
+  top: 440px;
+}
+
+.Loadednachos{
+  width: 303px;
+  height: 205px;
+  position: absolute;
+  left: 1285px;
+  top: 405px;
+}
+
+.Noodles{
+  width: 290px;
+  height: 190px;
+  position: absolute;
+  left: 1520px;
+  top: 420px;
+}
+
+#Section{
+  
+}
